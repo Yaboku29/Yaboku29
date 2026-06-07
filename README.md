@@ -1,8 +1,12 @@
 <h1 align="center">Hi 👋, I'm Ananda Rizky Setya Nugroho</h1>
 
 <h3 align="center">
-Informatics Student | Backend Enthusiast | Problem Solver
+Undergraduate Informatics Student at UPN "Veteran" Yogyakarta
 </h3>
+
+<h4 align="center">
+Backend Development • Databases • Software Engineering
+</h4>
 
 <div align="center">
 
@@ -16,11 +20,11 @@ Informatics Student | Backend Enthusiast | Problem Solver
 
 ## 👨‍💻 About Me
 
-- 🎓 Informatics Student
-- 🌱 Currently learning **Web Development, PHP, Java, and Python**
-- 💡 Interested in **Backend Development, Databases, and Software Engineering**
-- 🚀 Building projects to improve programming and problem-solving skills
-- 📚 Exploring Machine Learning and AI fundamentals
+- 🎓 Undergraduate Informatics Student at UPN "Veteran" Yogyakarta
+- 💻 Interested in Backend Development and Software Engineering
+- 🌱 Currently learning PHP, Java, Python, PostgreSQL, and Web Development
+- 🚀 Passionate about building practical software solutions
+- 📚 Exploring Machine Learning and Artificial Intelligence
 
 ---
 
