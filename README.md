@@ -69,10 +69,21 @@ Backend Development • Databases • Software Engineering
 
 ## 🚀 Featured Projects
 
-> Coming Soon...
+### 🤖 [BotWatel](https://github.com/Yaboku29/BotWatel) *(In Development)*
+Telegram → WhatsApp Bridge built with **Python**, **Telethon**, **Node.js**, and **Baileys**.
 
-Currently working on personal and academic projects that will be published here in the future.
+**Current Features**
+- Monitor Telegram messages
+- Download media (photo, video, document)
+- Forward messages to WhatsApp
+- Support WhatsApp Community Announcement Groups
+- Modular pipeline architecture
 
+**Planned Features**
+- Database integration
+- Multiple Telegram ↔ WhatsApp bridge mapping
+- Retry queue
+- Logging dashboard
 ---
 
 ## 📈 GitHub Activity
