@@ -67,9 +67,9 @@ Backend Development • Databases • Software Engineering
 
 ---
 
-🚀 Featured Projects
+## 🚀 Featured Projects
 
-🤖 BotWatel (In Development)
+### [🤖 BotWatel](https://github.com/Yaboku29/BotWatel/tree/main) (In Development)
 
 Telegram → WhatsApp Bridge built with Python, Telethon, Node.js, and Baileys.
 
