@@ -74,18 +74,18 @@ Backend Development • Databases • Software Engineering
 Telegram → WhatsApp Bridge built with Python, Telethon, Node.js, and Baileys.
 
 Current Features:
-• Monitor Telegram messages (DM, Groups, Channels) via Userbot Engine
-• Download media (photo, video, document) with dynamic mimetype handling
-• Realtime automated translation (Deep Translator)
-• Smart Album Detection using SQLite database (prevents duplicate caption flooding)
-• Auto-Clean Storage (instantly deletes local media files post-forwarding)
-• Modular pipeline architecture (Chain of Responsibility pattern)
-• Forward messages to WhatsApp & WhatsApp Community Announcement Groups
+- Monitor Telegram messages (DM, Groups, Channels) via Userbot Engine
+- Download media (photo, video, document) with dynamic mimetype handling
+- Realtime automated translation (Deep Translator)
+- Smart Album Detection using SQLite database (prevents duplicate caption flooding)
+- Auto-Clean Storage (instantly deletes local media files post-forwarding)
+- Modular pipeline architecture (Chain of Responsibility pattern)
+- Forward messages to WhatsApp & WhatsApp Community Announcement Groups
 
 Planned Features:
-• Multiple Telegram ↔ WhatsApp bridge mapping
-• Advanced retry queue management
-• Centralized logging dashboard
+- Multiple Telegram ↔ WhatsApp bridge mapping
+- Advanced retry queue management
+- Centralized logging dashboard
 
 ---
 
